@@ -6,7 +6,6 @@
 <img src="logo2.png" alt="Reliji Trash Care Logo" width="200" align="center">
 </p>
 
-
 **Reliji Trash Care** adalah website pengelolaan sampah untuk Desa Mendalo Indah, Jambi, yang dikelola oleh jasa pengangkut sampah Reliji bekerja sama dengan Dinas Lingkungan Hidup.
 
 ## Tentang Reliji
