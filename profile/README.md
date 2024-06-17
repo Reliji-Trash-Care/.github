@@ -17,8 +17,7 @@ Reliji adalah sebuah inisiatif swadaya masyarakat yang menyediakan layanan angku
 - **Informasi Pengelolaan Sampah**: Detail mengenai cara pengelolaan sampah dan berita mengenai sampah.
 - **Jadwal Pengangkutan**: Jadwal rutin pengangkutan sampah untuk memastikan kebersihan dan kesehatan lingkungan.
 - **Pembayaran Sampah**: Sistem pembayaran untuk memfasilitasi layanan pengelolaan sampah yang efisien.
-- **Deteksi Jenis Sampah dan Penanganannya**: Informasi tentang pengelompokan dan pengelolaan berbagai jenis sampah serta bagaimana tata cara pengelolaannya.
-
+- **Deteksi Jenis Sampah dan Penanganannya**: Informasi tentang pengelompokan dan pengelolaan berbagai jenis sampah.
 ## Tujuan Kami
 
 Project kami bertujuan untuk mempermudah akses informasi seputar pengelolaan sampah dan meningkatkan kesadaran masyarakat Desa Mendalo Indah akan pentingnya menjaga kebersihan lingkungan.
